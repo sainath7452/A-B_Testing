@@ -32,6 +32,3 @@ The original "SHOP NOW" button design exhibited a low conversion rate of 2%. To 
 - **Key Learning:** This project demonstrated the value of a data-driven approach in optimizing user interface elements to improve customer engagement and increase sales.
 
 ---
-
-## **Project Structure**
-ab-testing-project/ ├── dataset/ │ ├── sales_data.csv # Contains the dataset used for analysis ├── notebooks/ │ ├── eniac_ab.ipynb # Jupyter Notebook with A/B testing analysis ├── scripts/ │ ├── data_cleaning.py # Python script for data preprocessing │ ├── hypothesis_testing.py # Python script for hypothesis testing ├── README.md # Project overview and details ├── requirements.txt # Python dependencies ├── LICENSE # Project license
